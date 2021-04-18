@@ -8,7 +8,7 @@
   <p style="text-align: center;"align="center"><a href="https://discord.gg/FkjSgFcE97"><code><img alt="ZeroDr's YouTube" height="20" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"></code></a> <a href="https://www.youtube.com/channel/UC0fhN1O8QkKTdBSLPOx6Tiw"><code><img alt="ZeroDr's YouTube" height="20" src="https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png"></code></a>
   <p style="text-align: center;"align="center">============================================================</p>
 </details>
-**Languages and Tools:** &nbsp;
+Languages and Tools: &nbsp;
 <p align="center">
 <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
